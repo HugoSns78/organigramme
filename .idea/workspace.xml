@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ed2996f-6d61-44a5-bf31-bb811e39fe53" name="Changes" comment="" />
+    <list default="true" id="9917c685-41c8-47e4-b12b-240c93e916cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/backend/data/testdb.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/backend/h2data/testdb.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/backend/h2data/testdb.trace.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/backend/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/backend/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/backend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/backend/src/main/java/com/organigramme/backend/OrganigrammeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/backend/src/main/java/com/organigramme/backend/config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/backend/src/main/java/com/organigramme/backend/controller/PersonneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/backend/src/main/java/com/organigramme/backend/model/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/backend/src/main/java/com/organigramme/backend/repository/PersonneRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/data/testdb.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/backend/data/testdb.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/organigramme/backend/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/organigramme/backend/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/backend/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/backend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/components/personne-list/personne-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/components/personne-list/personne-list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/components/personne-list/personne-list.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/components/personne-list/personne-list.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/models/personne.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/services/persone.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/test/java/com/organigramme/backend/OrganigrammeApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/backend/src/test/java/com/organigramme/backend/OrganigrammeApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,37 +57,78 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
-  <component name="ProjectId" id="3CRTQCGbdQ0pV9antNh81X8iqVT" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3CRVttG8L4gWHa3iJBm3IAR8ksl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/astic/Desktop/Recherche Emploi/organigramme/backend",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\astic\\Desktop\\Recherche Emploi\\organigramme\\frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Spring Boot.OrganigrammeApplication">
+    <configuration name="OrganigrammeApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="organigramme-back (2)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.organigramme.backend.OrganigrammeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrganigrammeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="organigramme-back" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.organigramme.backend.OrganigrammeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6ed2996f-6d61-44a5-bf31-bb811e39fe53" name="Changes" comment="" />
-      <created>1776347366719</created>
+      <changelist id="9917c685-41c8-47e4-b12b-240c93e916cc" name="Changes" comment="" />
+      <created>1776348590063</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1776347366719</updated>
-      <workItem from="1776347371292" duration="56000" />
+      <updated>1776348590063</updated>
+      <workItem from="1776348597031" duration="105000" />
+      <workItem from="1779029199310" duration="3378000" />
     </task>
     <servers />
   </component>

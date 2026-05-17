@@ -1,4 +1,4 @@
-package com.organigramme.backend.CORS;
+package com.organigramme.backend.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
